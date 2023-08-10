@@ -1726,8 +1726,8 @@ header .logo a {
 }
 
 .projects-box i {
-    font-size: 2.5rem;
-    background: linear-gradient(90deg, #2788e2 20%, #3b67b8);
+    font-size: 5rem;
+    background: linear-gradient(90deg, #FF0077 20%, #FF01D5);
     margin-bottom: 10px;
     margin-right: auto;
     -webkit-background-clip: text;
